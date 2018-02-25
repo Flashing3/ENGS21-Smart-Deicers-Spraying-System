@@ -5,11 +5,11 @@
 
 This code is the software part for our final project of Engineering 21: Introduction to Engineering at Thayer Engineering School at Dartmouth College.
 
-#### Current problem:
+### Current problem:
 
 The Hanover Public Services, at Hanover, New Hampshire, has been using the next generation solution of cleaning the snow during the winter. They sprayed a mixed deicer, which has 24% salt diluted in H2O and CaCl2 before the snow coming to prevent the snow from building up and make the snow plowing process much easier. However, they have no mathematics models or computer knowledge to find out the most optimal density of the deicers. Sometimes the wrong density might result in economic lost and environment problems.
 
-##### Solution: 
+### Solution: 
 
 We built a system to help optimizing the deicers solution spraying for the Hanover Public Services at Hanover, New Hampshire. 
 
